@@ -1,0 +1,30 @@
+# Claude Code
+.claude/
+
+# Windows
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+
+# OS files
+.DS_Store
+
+# Editor/IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# Environment variables
+.env
+.env.local
+
+# Dependencies
+node_modules/
+__pycache__/
+*.pyc
+
+# Build output
+dist/
+build/
