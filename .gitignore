@@ -19,6 +19,10 @@ Desktop.ini
 # Environment variables
 .env
 .env.local
+config.py
+test_response.json
+n8n_workflow_rcpcc.json
+n8n_workflow_rcpcc_v2.json
 
 # Dependencies
 node_modules/
